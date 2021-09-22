@@ -1,4 +1,4 @@
-## Geospatial Data Project
+## Geospatial Development
 ### Step 1 - Problem Definition.
 A B2B data service company based in UK wanted to utilize location data
 to improve their understanding of customer location, segmentation and competitor establishment for
